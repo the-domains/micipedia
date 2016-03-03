@@ -1,7 +1,7 @@
 name: Micipedia
 favicon: null
-layout_spectrum: 0.9967140587978065
-typography_spectrum: 0.9536411117296666
+layout_spectrum: 0
+typography_spectrum: 0.99253
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.9322061908897012
+    - '#ffbe9e'
+    - '#0083af'
+    - '#8fa4a4'
+    - '#2f8eac'
+    - '#bcaea2'
+  brandStrength: 0.5
   lightness: 0.45151854725554585
   saturation: 0.6577256848104298
   rhythmicContrast: 0.5492268560919911
